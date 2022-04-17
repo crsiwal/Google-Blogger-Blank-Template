@@ -16,7 +16,7 @@ Blogger won't allow you to just add the following code as template:
 </html>
 ```
 
-So use the our blank theme for make it possible
+So use the our blank theme template for make it possible
 
 1. Go To Blogger Dashboard
 2. Create a New Test Blog
