@@ -9,7 +9,7 @@ Blogger won't allow you to just add the following code as template:
 ```
 <html>
  <head>
-  <title>My Awesome Blank Blog</title>
+  <title>My Awesome Blank Blog Template</title>
  </head>
  <body>
  </body>
