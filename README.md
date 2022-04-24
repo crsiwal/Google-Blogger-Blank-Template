@@ -23,7 +23,7 @@ So use the our blank theme template for make it possible
 3. Give it a title and address
 4. Choose the Simple Template and not Dynamic Views
 5. Next Navigate to Template > Edit HTML > Proceed
-6. Replace all the code inside the editor with the following code
+6. Replace all the code inside the editor with the following code.
 
 [![](screenshot.png)](https://github.com/crsiwal/Google-Blogger-Blank-Template)
 
